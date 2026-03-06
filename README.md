@@ -26,12 +26,6 @@ A React web application that allows users to reserve a table at the Little Lemon
 
 ---
 
-## Screenshot
-
-[Little Lemon Booking App](screenshots/little-lemon-ui.png)
-
----
-
 ## Run the Project
 
 Install dependencies:
